@@ -1,7 +1,7 @@
 GIT
   remote: https://github.com/Scribouilli/kabusin.git
-  revision: 0e87c9506bac503f7bbab5be3627a691556aa602
-  branch: main
+  revision: 81e424c2b5d5a5086b47de29f54bb4e1bfeb7f2e
+  branch: adaptation-style-user-proof-p
   specs:
     kabusin (1.0.0)
       jekyll (~> 4.3.2)
