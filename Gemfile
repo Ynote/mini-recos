@@ -3,7 +3,7 @@ source "https://rubygems.org"
 gem "jekyll", "~> 4.3.2"
 
 # Jekyll themes for Scribouilli
-gem "kabusin", git: "https://github.com/Scribouilli/kabusin.git", branch: "main"
+gem "kabusin", git: "https://github.com/Scribouilli/kabusin.git", branch: "adaptation-style-user-proof-p"
 
 group :jekyll_plugins do
   # Handle redirections
