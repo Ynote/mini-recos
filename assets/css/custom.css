@@ -1,14 +1,3 @@
 :root {
     --couleur-primaire : #2a6442;
 }
-
-.mini-site__title {
-  margin: -4rem auto 3rem 1rem;
-  transform: rotate(-2deg);
-}
-
-#f-page h1 {
-  margin: 1rem;
-  transform: rotate(0deg);
-}
-
